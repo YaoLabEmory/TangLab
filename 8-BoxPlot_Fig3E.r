@@ -1,3 +1,5 @@
+# DRIP-seq logFC for Bru-seq upregulated ISGs and Non-ISGs. **** indicates P ＜ 0.0001 (Unpaired t test).
+
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 mr<-read.table(file="/projects/compbio/users/yli/DNAseq/DRIP_TangLab/Mapping/mr_New/DESeq.gene.color.xls",header=T)
 names(mr)<-c(names(mr)[-c(14,15)],"gene","color")
