@@ -1,3 +1,5 @@
+# Genome-wide significantly upregulated and downregulated R-loop regions detected by DRIP-seq in ZIKVMR-infected U-251 MG/IFNAR1WT cells (FDR < 0.05).
+
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 load("../mat.rda")
 
