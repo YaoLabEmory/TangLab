@@ -1,3 +1,5 @@
+# Gene ontology of common upregulated genes detected by both Drip-seq and Bru-seq in ZIKVMR- or ZIKVPR-infected cells.
+
 .libPaths("/mnt/icebreaker/data2/home/yli/R/x86_64-redhat-linux-gnu-library/3.6")
 
 library(ggplot2)
