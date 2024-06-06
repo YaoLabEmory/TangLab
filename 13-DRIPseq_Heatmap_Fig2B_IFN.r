@@ -1,3 +1,6 @@
+# Genome-wide significantly upregulated and downregulated sites detected by DRIP-seq in IFN-infected cells (FDR < 0.05).
+# DRIP-seq: Heatmap of comparison between IFN vs Mock. 
+
 .libPaths("/mnt/icebreaker/data2/home/yli/R/x86_64-redhat-linux-gnu-library/3.6")
 load("../mat.rda")
 
