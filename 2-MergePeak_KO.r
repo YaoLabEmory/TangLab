@@ -1,3 +1,5 @@
+# DRIP-seq: Merge peak and call diff for KO_ZV vs KO_Mock .
+
 #!/usr/bin/env Rscript
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 library(Rsamtools)
