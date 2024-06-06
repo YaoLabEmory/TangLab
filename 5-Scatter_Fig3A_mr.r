@@ -1,3 +1,5 @@
+# Scatter plots illustrates DRIP-seq reads in Mock- or ZIKV_mr-infected cells. Genes up/down regulated in both DRIP-seq and Bru-seq are highlighted. 
+
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 data<-read.table(file="../DESeq.gene.color.xls",header=T)
 names(data)<-c(names(data)[-c(14,15)],"gene","color")
