@@ -1,3 +1,5 @@
+# Heatmap demonstrate the normalized Bru-seq reads in 5 R-loop processing genes in ZIKVMR and ZIKVPR-infected cells.
+
 .libPaths("/mnt/icebreaker/data2/home/yli/R/x86_64-redhat-linux-gnu-library/3.6")
 
 load("ZMR_vs_M_New_mat.rda")
