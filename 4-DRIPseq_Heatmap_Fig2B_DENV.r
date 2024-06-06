@@ -1,3 +1,6 @@
+# Genome-wide significantly upregulated and downregulated sites detected by DRIP-seq in DENV-infected SNB-19s (FDR < 0.05).
+# DRIP-seq: Heatmap of comparison between DENV vs Mock. 
+
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 load("../mat.rda")
 
