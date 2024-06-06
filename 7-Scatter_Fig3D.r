@@ -1,3 +1,5 @@
+# Significantly upregulated ISGs or Non-ISGs in Bru-seq. Upregulated genes that are also detected by DRIP-seq are highlighted. 
+
 .libPaths("/home/yli99/R/x86_64-pc-linux-gnu-library/4.0")
 
 PRV<-read.table(file="PRV.DESeq.uniqgene.xls",header=F)[,c(13,14)]
