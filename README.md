@@ -31,3 +31,7 @@
 16-Bruseq_ReadsCount_MR_Mock.r: Count Bruseq reads in gene body for MR and Mock.
 
 17-Bruseq_DifferentialAnalysis.r: Bru-seq reads were counted in gene body and stored in a matrix called "mat.rda". Reads were normalized to total mapped reads and call diff by DESeq2
+
+18-DRIPseq_Heatmap_Fig2B_ZIKVmr.r: Genome-wide significantly upregulated and downregulated sites detected by DRIP-seq in ZIKVmr-infected cells (FDR < 0.05).DRIP-seq: Heatmap of comparison between ZIKVmr vs Mock.
+
+19-DRIPseq_Heatmap_Fig2B_ZIKVpr.r: Genome-wide significantly upregulated and downregulated sites detected by DRIP-seq in ZIKVpr-infected cells (FDR < 0.05).DRIP-seq: Heatmap of comparison between ZIKVpr vs Mock.
